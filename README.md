@@ -8,8 +8,6 @@ This is a JavaScript application that analyzes the performance of Formula 1 cons
 - [Installation](#installation)
 - [Usage](#usage)
 - [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
@@ -37,7 +35,7 @@ npm install
 
 ## Usage
 
-The application consists of three main files:
+The application consists of four main files:
 
 - `utils.js`: Contains utility functions for fetching data and analyzing F1 constructor performance.
 - `index.js`: The main script that fetches data for the 2023 F1 constructors and analyzes their performance.
@@ -58,7 +56,7 @@ npm run start
 npm run log
 ```
 
-The result will be displayed in the console, showing which circuit each constructor has performed best at in the history of Formula 1.
+The result will be displayed in the console, showing which circuit each 2023 constructor has performed best at in the history of Formula 1.
 
 ## Testing
 
