@@ -1,0 +1,20 @@
+{
+  "name": "jsw_take_home",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js > answer.txt",
+    "log": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "d@git.com"
+  },
+  "author": "Kayphaz",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
